@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
+![Status](https://img.shields.io/badge/Status-Learning-orange)
+
 # Machine Learning & Deep Learning Learning Repository
 
 A comprehensive repository documenting my journey through Machine Learning (ML) and Deep Learning (DL).
